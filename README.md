@@ -8,3 +8,5 @@ On the main screen, user is able to see the calendar view for the whole month, j
 On the week view, user can see the list of the medication scheduled for the currently viewed week, see previous and next weeks and jump into a day view in two ways. There is a possibility to add a medication to the database.
 On the day view, user can see every hour of the day with every medication scheduled for a specific hour, edit or remove the medication by clicking on it and add the new medication.
 The application authomatically sets the alarm for the chosen date and hour and sends a notification about the necessity of taking the medication on time. 
+
+In the path TakeYourMeds/src/main/java/com/example/takeyourmeds/ you can find all the packages that contain all java classes and in the path TakeYourMeds/src/main/res/layout/ you can find all XML layouts connected to java classes
