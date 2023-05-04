@@ -10,3 +10,10 @@ On the day view, user can see every hour of the day with every medication schedu
 The application authomatically sets the alarm for the chosen date and hour and sends a notification about the necessity of taking the medication on time. 
 
 In the path TakeYourMeds/src/main/java/com/example/takeyourmeds/ you can find all the packages that contain all java classes and in the path TakeYourMeds/src/main/res/layout/ you can find all XML layouts connected to java classes
+
+
+**FROM THE AUTHOR:
+This is a project that gave me the title of IT engineer. It was positively assessed and got good reviews by my promoter and reviever. It gave me an opportunity to practice my Java skills and I learned about how to use the XML language in practice. I also got deep into the structure of the project, I was working with almost every file inside the Android Application and I learned a lot about the structure of it. The functionalities I implemented such as notifications or database are also useful commonly in various scenarios and it was a good way to get to know how to implement it because it can be very useful in the future. 
+
+If it comes to adding new functionalities to this application, I would like to add an option to update the amount of pills that the package contains and the application would notify the user about the necessity of buying a new package of medication to avoid running-out of it. I would also like to add the system of marking the 
+medication whether it is taken or not. Further plans include creating the possibility for other user to get the data about the medication to apply some sort of control on it for example by a caregiver or by a doctor. Improving the overall look of the application is on the list as well. 
